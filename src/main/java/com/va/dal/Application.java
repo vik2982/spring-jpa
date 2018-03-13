@@ -4,8 +4,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.va.dal.exception.SomeException;
-//import com.va.dal.dao.PersonDao;
-//import com.va.dal.model.Person;
 import com.va.dal.service.PersonService;
 
 public class Application {
